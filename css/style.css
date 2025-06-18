@@ -2329,7 +2329,7 @@ select:after {
 
 .page-description {
   font-size: 1.1rem;
-  color: var (--color-text);
+  color: var(--color-text);
   margin-bottom: 2rem;
   text-align: center;
   font-family: var(--font-main);
@@ -2434,7 +2434,7 @@ select:after {
   font-size: 1.1rem;
   font-weight: 600;
   font-family: var(--font-heading);
-  color: var (--color-white);
+  color: var(--color-white);
   background: var(--color-primary);
   border: none;
   border-radius: 0.5rem;
